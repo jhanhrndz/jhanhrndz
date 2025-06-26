@@ -39,3 +39,25 @@
 </p>
 <br>
 
+<!----------------------->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhanhrndz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhanhrndz&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhanhrndz&theme=algolia&hide_border=true"/>
+</div>
+
+<!----------------------->
+
+## <p><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" />&nbsp;Git profile Trophies</p>
+<br>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jhanhrndz&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+
