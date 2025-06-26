@@ -24,7 +24,7 @@
   <br><br>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" /> <b><i>Learning with enthusiasm and effort!!!!</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30" />
 </p>
-,
+
 <br><br>
 
 <!----------------------->
