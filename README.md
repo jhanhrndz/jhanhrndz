@@ -47,7 +47,7 @@
 <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhanhrndz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhanhrndz&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhanhrndz&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhanhrndz&theme=algolia"/>
 </div>
 
 <!----------------------->
