@@ -50,7 +50,7 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhanhrndz&theme=algolia"/>
 </div>
 
-<!----------------------->
+<!-----------------------
 
 ## <p><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" />&nbsp;Git profile Trophies</p>
 <br>
@@ -58,4 +58,6 @@
 <div align=center>
   <img align="center" src="https://github-profile-trophy.vercel.app?username=jhanhrndz&theme=algolia&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
+
+>
 
