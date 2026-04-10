@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,dotnet,fastapi,py,flask,r,vite,react,angular,css,html,js,ts,wordpress,tailwind,bootstrap,figma,postgres,mysql,firebase,git,github,postman,vscode,kali,linux,arduino&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,dotnet,py,r,vite,react,angular,js,ts,tailwind,bootstrap,postgres,mysql,firebase,git,github,postman,vscode,linux,arduino&theme=light" />
   </a>
 </p>
 <br>
